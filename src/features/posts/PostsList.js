@@ -27,6 +27,7 @@ const PostsList = () => {
             <h1>Проба первого коммита</h1>
             <h1>Проба второго коммита</h1>
             <h1>Проба третьего коммита</h1>
+            <h1>Fourth commit is delivered</h1>
             {renderedPosts}
         </section>
     );
