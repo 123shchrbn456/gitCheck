@@ -25,6 +25,7 @@ const PostsList = () => {
         <section>
             <h2>Posts</h2>
             <h1>Проба первого коммита</h1>
+            <h1>Проба второго коммита</h1>
             {renderedPosts}
         </section>
     );
